@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2015\Projects\StatHammer\StatHammer\bin\Debug\StatHammer.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\StatHammer\StatHammer\bin\Debug\StatHammer.exe
+c:\users\daniel\documents\visual studio 2015\Projects\StatHammer\StatHammer\bin\Debug\StatHammer.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\StatHammer\StatHammer\obj\Debug\StatHammer.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\StatHammer\StatHammer\obj\Debug\StatHammer.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\StatHammer\StatHammer\obj\Debug\StatHammer.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\StatHammer\StatHammer\obj\Debug\StatHammer.exe
+c:\users\daniel\documents\visual studio 2015\Projects\StatHammer\StatHammer\obj\Debug\StatHammer.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\StatHammer\StatHammer\obj\Debug\StatHammer.StatHammer.resources
